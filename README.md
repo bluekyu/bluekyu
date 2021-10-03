@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there (만나서 반갑습니다!) 👋
+
+#### Profiles
+- [LinkedIn (링크드인)](https://www.linkedin.com/in/younguk-kim/)
 
 <!--
 **bluekyu/bluekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

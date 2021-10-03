@@ -2,6 +2,7 @@
 
 #### Profiles
 - [LinkedIn (링크드인)](https://www.linkedin.com/in/younguk-kim/)
+- [로켓펀치](https://www.rocketpunch.com/@26efa1acc2744bbd)
 
 <!--
 **bluekyu/bluekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
